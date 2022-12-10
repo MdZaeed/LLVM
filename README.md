@@ -3,4 +3,4 @@ Issues:
 - Does not count the number of instructions properly for all functions
 
 Limiatation:
--Does not count the inner loops
+- Does not count the inner loops
